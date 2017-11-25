@@ -1,0 +1,5 @@
+D:\Projects\Test\USA-WebAPI
+--output-path=obj\release\netcoreapp2.0\
+--application-name=USA
+--content-root=D:\Projects\Test\USA-WebAPI
+--file=

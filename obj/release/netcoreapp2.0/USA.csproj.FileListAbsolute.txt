@@ -1,0 +1,10 @@
+D:\Projects\Test\USA-WebAPI\bin\release\netcoreapp2.0\USA.deps.json
+D:\Projects\Test\USA-WebAPI\bin\release\netcoreapp2.0\USA.runtimeconfig.json
+D:\Projects\Test\USA-WebAPI\bin\release\netcoreapp2.0\USA.runtimeconfig.dev.json
+D:\Projects\Test\USA-WebAPI\bin\release\netcoreapp2.0\USA.dll
+D:\Projects\Test\USA-WebAPI\bin\release\netcoreapp2.0\USA.pdb
+D:\Projects\Test\USA-WebAPI\obj\release\netcoreapp2.0\USA.csproj.CoreCompileInputs.cache
+D:\Projects\Test\USA-WebAPI\obj\release\netcoreapp2.0\USA.AssemblyInfoInputs.cache
+D:\Projects\Test\USA-WebAPI\obj\release\netcoreapp2.0\USA.AssemblyInfo.cs
+D:\Projects\Test\USA-WebAPI\obj\release\netcoreapp2.0\USA.dll
+D:\Projects\Test\USA-WebAPI\obj\release\netcoreapp2.0\USA.pdb
